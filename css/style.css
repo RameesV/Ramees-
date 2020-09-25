@@ -1,0 +1,273 @@
+body{
+    margin: 0%;
+}
+
+
+.header {
+    width: 100%;
+    background: #000;
+  }
+
+.h2head{
+ font-stretch: extra-expanded;
+ font-weight: bold;
+ font-size: 300%;
+ color: rgb(255, 255, 255);
+}
+
+
+.section_1{
+background: #000;
+margin-right: 0%;
+margin-left: 0%;
+padding: 0%;
+}
+
+
+.subheading{
+    color:#ffc107;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI";
+}
+h1{
+    color: aliceblue;
+    font-size: 50%;
+}
+
+.spn-name{
+color: #ffc107;
+font-size:150%;
+}
+
+.spn-krl{
+    font-size: 110%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.navbar-toggler-icon{
+ background-color: rgb(84, 95, 104);
+
+ margin-left: 3em;
+}
+
+.navbar-nav{
+font-size: 100%;
+font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+
+.nav-link:hover{
+color:#ffc107;
+}
+
+
+
+
+
+
+
+
+.h4im{
+    color: #ffffff;
+}
+
+
+.abouth1{
+    font-size: 400%;
+    font-weight: bold;
+    color: turquoise;
+    
+   
+}
+
+.d-flex {
+font-weight: bold;
+font-size: 1.2em;
+color: whitesmoke;
+}
+
+.section2{
+background: #000;
+width: 100%;
+}
+
+
+
+
+
+
+
+.atag {
+    text-decoration: none ;
+ }
+.atag:hover
+ {
+   
+   text-decoration:none;
+   cursor:pointer;
+ }
+
+
+.education{
+    margin-top: 2em;
+}
+
+
+.section3{
+    background-color: black;
+}
+
+
+
+.h1-edu{
+    font-size: 400%;
+    font-weight: bold;
+    color: turquoise;
+    text-align: center;
+
+}
+
+.card{
+    height: 24em;
+    width: auto;
+}
+
+
+
+
+.card-body{
+    background-color: #000000;
+}
+
+.card-title{
+    font-weight: bold;
+    color: #ffc107;
+    font-size: 150%;
+}
+
+
+.card-course{
+    color: #ffffff;
+    
+}
+
+.card-text{
+    color: #ffffff;
+}
+
+.pgs{
+    background-color: black;
+}
+
+
+
+.lbl{
+color: #ffffff;
+font-weight: bold;
+}
+
+.section-skills{
+    background-color: black;
+}
+
+
+.spn{
+    color: black;
+    font-weight: bold;
+    font-size: 1.5em;
+
+}
+
+
+.cert-body{
+    background-color: black;
+    width: 100%;
+    height: 10em;
+}
+
+
+.h1-cert{
+    font-size: 350%;
+    font-weight: bold;
+    color: turquoise;
+    text-align: center;
+}
+
+
+.cert-section{
+    background-color:#000000;
+}
+
+
+
+.card-cert{
+    color: #ffffff;
+    
+}
+
+.contact{
+    background-color: black;
+}
+
+.img-size{
+width: 50px;
+height: 50px;
+}
+
+
+.contact-h1{
+    font-weight: bold;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.img-align{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.pc{
+    text-align: center;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 120%;
+}
+
+
+.atag2 {
+    text-decoration: none ;
+    color: #ffffff;
+ }
+.atag2:hover
+ {
+   color: #ffffff;
+   text-decoration:none;
+   cursor:pointer;
+ }
+
+ .footer{
+     background-color: black;
+     color: #ffffff;
+ }
+
+
+ .footer-h5{
+     text-align: center;
+
+ }
+
+
+
+ .lc{
+    text-align: left;
+    font-style: normal;
+    color: #ffffff;
+    font-size: 120%;
+}
+
+.img-sm{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
