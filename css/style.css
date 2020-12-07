@@ -6,14 +6,17 @@ body{
 
 .header {
     width: 100%;
-    background: #000;
+    background:black;
   }
 
 .h2head{
  font-stretch: extra-expanded;
  font-weight: bold;
  font-size: 300%;
- color: rgb(255, 255, 255);
+ color: rgb(250, 249, 249);
+
+ margin-left: 0;
+ margin-right: auto;
 }
 
 
@@ -21,10 +24,13 @@ body{
 
 
 
-
+.img_log{
+    width: 50px;
+    height: 50px;
+ }
 
 .section_1{
-background: #000;
+    background:black;
 margin-right: 0%;
 margin-left: 0%;
 padding: 0%;
@@ -52,9 +58,11 @@ font-size:150%;
 
 
 .navbar-toggler-icon{
- background-color: rgb(84, 95, 104);
-
- margin-left: 3em;
+ background-color: rgb(94, 100, 105);
+ 
+ border-radius: 0%;
+ border-style: none;
+ /* margin-left: 3em; */
 }
 
 .navbar-nav{
@@ -63,9 +71,19 @@ font-family: Georgia, 'Times New Roman', Times, serif
 }
 
 
-.nav-link:hover{
-color:#ffc107;
+
+
+.nav-link {
+    
+    text-decoration: none;
+    cursor: pointer;
 }
+
+.nav-link:hover{
+    color:yellow;
+    text-decoration: none;
+}
+
 
 
 
@@ -94,7 +112,7 @@ color: whitesmoke;
 }
 
 .section2{
-background: #000;
+    background: black;
 width: 100%;
 }
 
@@ -121,7 +139,8 @@ width: 100%;
 
 
 .section3{
-    background-color: black;
+    background: black;
+   
 }
 
 
@@ -270,9 +289,7 @@ height: 50px;
 }
 
 
-.footer{
-    background-color: #000000;
-}
+
 
 .fa {
     margin-left: auto;
@@ -317,9 +334,10 @@ height: 50px;
     color: #ffffff;
     font-size: 100%;
   }
-.row-footer{
+footer{
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+    align-items: center;
+    justify-content: center;
     
 }
